@@ -1,0 +1,8 @@
+openai
+tiktoken 
+chromadb
+langchain
+flask
+GitPython
+python-dotenv
+sentence-transformers 
